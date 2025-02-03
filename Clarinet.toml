@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.zen-pulse]
+path = "contracts/zen-pulse.clar"
+depends_on = []
+
 [contracts.zen-token]
 path = "contracts/zen-token.clar"
 depends_on = []
